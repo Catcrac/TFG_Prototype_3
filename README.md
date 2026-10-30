@@ -12,6 +12,10 @@ three playable prototypes and a user study with 20 participants (10 pairs).
 
 ![First enemies reaching the doors](Docs/screenshot-1.jpg)
 
+## Download
+
+A playable **Windows (64-bit) build** is available in the [latest release](https://github.com/Catcrac/TFG_Prototype_3/releases/latest): download `TFG_Prototype_3_Windows_x64.zip`, unzip it and run the `.exe`. One player hosts and shares the **join code**; the other enters it to join (internet connection required).
+
 ## What this prototype tests
 
 It combines all three types of cooperation, with the emphasis on **coordination** through ability synergy.
@@ -37,7 +41,7 @@ It combines all three types of cooperation, with the emphasis on **coordination*
 | Jump | Space |
 | Use ability | E |
 
-## Running it
+## Running it from source
 
 1. Open the project with **Unity 2022.3.29f1**.
 2. Link it to your own Unity Gaming Services project (Edit → Project Settings → Services) and enable **Relay**: the original project ID belongs to my account.
